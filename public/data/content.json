@@ -1,0 +1,45 @@
+{
+  "legends": [
+    {
+      "id": "legend-surya-chariot",
+      "title": "Chariot of the Sun God",
+      "audioUrl": "https://cdn.odiar.app/legends/surya_chariot.mp3",
+      "transcription": "In ancient Odisha...",
+      "relatedPoiId": "poi-konark-sun-temple",
+      "durationSec": 312,
+      "coverImageUrl": "https://cdn.odiar.app/legends/surya.jpg",
+      "language": "en"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "greet-001",
+      "odiaScript": "ନମସ୍କାର",
+      "transliteration": "Namaskār",
+      "translation": "Hello",
+      "audioUrl": "https://cdn.odiar.app/language/hello.mp3",
+      "category": "greetings",
+      "difficulty": "easy"
+    }
+  ],
+  "culture": [
+    {
+      "id": "odissi-001",
+      "title": "Odissi Dance",
+      "type": "video",
+      "mediaUrl": "https://cdn.odiar.app/culture/odissi_hd.m3u8",
+      "thumbnailUrl": "https://cdn.odiar.app/culture/odissi.jpg",
+      "description": "Classical dance form from Odisha.",
+      "tags": ["odissi", "dance", "classical"]
+    }
+  ],
+  "gameMemory": {
+    "cards": [
+      { "id": "c1", "imageUrl": "https://cdn.odiar.app/game/pattachitra_1.png", "pairId": "p1" },
+      { "id": "c2", "imageUrl": "https://cdn.odiar.app/game/pattachitra_1b.png", "pairId": "p1" }
+    ],
+    "scoring": { "matchPoints": 10, "mismatchPenalty": -1, "timeBonusPerSec": 0.1 }
+  }
+}
+
+

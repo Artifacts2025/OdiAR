@@ -1,0 +1,38 @@
+{
+  "artifacts": [
+    {
+      "id": "konark-horse",
+      "name": "Konark Horse",
+      "modelUrl": "/models/konark_horse.glb",
+      "thumbnailUrl": "/images/konark_horse_thumb.jpg",
+      "polygonsCount": 85000,
+      "textures": [
+        { "type": "baseColor", "url": "https://cdn.odiar.app/models/textures/konark_horse_basecolor.png" },
+        { "type": "normal", "url": "https://cdn.odiar.app/models/textures/konark_horse_normal.png" }
+      ],
+      "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+      "rotation": { "x": 0, "y": 180, "z": 0 },
+      "hotspots": [
+        {
+          "id": "h1",
+          "position": { "x": 0.2, "y": 1.1, "z": -0.3 },
+          "title": "Stone Carving",
+          "infoTextId": "info_kh_carving_01",
+          "audioUrl": "https://cdn.odiar.app/audio/konark_horse_carving.mp3"
+        },
+        {
+          "id": "h2",
+          "position": { "x": -0.1, "y": 0.9, "z": 0.2 },
+          "title": "12th Century Art",
+          "infoTextId": "info_kh_history_12c",
+          "audioUrl": "https://cdn.odiar.app/audio/konark_horse_history.mp3"
+        }
+      ],
+      "infoTextIds": ["info_kh_overview"],
+      "attribution": "ASI, Konark Sun Temple",
+      "relatedPoiId": "poi-konark-sun-temple"
+    }
+  ]
+}
+
+

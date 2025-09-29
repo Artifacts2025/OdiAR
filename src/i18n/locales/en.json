@@ -1,0 +1,159 @@
+{
+  "app": {
+    "title": "OdiAR",
+    "subtitle": "Odisha culture, history and heritage in AR"
+  },
+  "navigation": {
+    "home": "Home",
+    "artifacts": "Monuments",
+    "maps": "Maps",
+    "legends": "Legends",
+    "culture": "Culture",
+    "language": "Language",
+    "games": "Games",
+    "explore": "Explore"
+  },
+  "home": {
+    "categories": "Categories",
+    "featured": "Featured: Konark Horse",
+    "featuredDesc": "Place in your space with AR",
+    "launchAR": "Launch AR"
+  },
+  "artifacts": {
+    "title": "Monuments",
+    "subtitle": "Place in your space and explore hotspots",
+    "konarkHorse": "Konark Horse"
+  },
+  "maps": {
+    "title": "Maps",
+    "subtitle": "Filter POIs: Temples, Beaches, Parks, Museums",
+    "stateMap": "Odisha State Map",
+    "stateName": "ODISHA",
+    "stateSubtitle": "State of India",
+    "bayOfBengal": "Bay of Bengal",
+    "pois": "Points of Interest",
+    "filters": {
+      "all": "All",
+      "temples": "Temples",
+      "beaches": "Beaches",
+      "parks": "Parks",
+      "museums": "Museums"
+    },
+    "cities": {
+      "bhubaneswar": "Bhubaneswar",
+      "puri": "Puri",
+      "konark": "Konark",
+      "cuttack": "Cuttack",
+      "rourkela": "Rourkela"
+    },
+    "poiList": {
+      "konarkTemple": "Konark Sun Temple",
+      "konarkDesc": "UNESCO World Heritage Site",
+      "puriBeach": "Puri Beach",
+      "puriBeachDesc": "Golden sands of Bay of Bengal",
+      "jagannathTemple": "Jagannath Temple",
+      "jagannathDesc": "Sacred temple in Puri",
+      "simlipalPark": "Simlipal National Park",
+      "simlipalDesc": "Tiger Reserve & Wildlife"
+    }
+  },
+  "legends": {
+    "title": "Legends",
+    "subtitle": "Narrated folktales and historical legends"
+  },
+  "culture": {
+    "title": "Culture",
+    "subtitle": "Explore Odisha's rich cultural heritage",
+    "tabs": {
+      "dress": "Traditional Dress",
+      "dance": "Dance & Music",
+      "art": "Art & Crafts"
+    },
+    "dress": {
+      "title": "Traditional Odia Dress",
+      "sambalpuri": {
+        "name": "Sambalpuri Saree",
+        "desc": "Traditional handwoven saree with intricate ikat patterns",
+        "features": ["Ikat weaving", "Natural dyes", "Geometric patterns", "Cotton & silk"],
+        "significance": "Symbol of Odisha's textile heritage and craftsmanship"
+      },
+      "bomkai": {
+        "name": "Bomkai Saree",
+        "desc": "Elegant saree with traditional motifs and temple borders",
+        "features": ["Temple borders", "Traditional motifs", "Silk weaving", "Cultural symbols"],
+        "significance": "Worn during festivals and special occasions"
+      },
+      "khandua": {
+        "name": "Khandua Saree",
+        "desc": "Sacred saree offered to Lord Jagannath with religious motifs",
+        "features": ["Religious motifs", "Sacred designs", "Temple offerings", "Spiritual significance"],
+        "significance": "Used in Jagannath temple rituals and ceremonies"
+      },
+      "odissi": {
+        "name": "Odissi Dance Costume",
+        "desc": "Traditional costume worn by Odissi dancers",
+        "features": ["Silk fabric", "Traditional jewelry", "Cultural motifs", "Dance-specific design"],
+        "significance": "Essential attire for classical Odissi dance performances"
+      }
+    },
+    "dance": {
+      "title": "Dance & Music",
+      "odissi": {
+        "name": "Odissi Dance",
+        "desc": "Classical dance form with graceful movements, intricate footwork, and expressive storytelling.",
+        "tags": ["Classical", "Temple Dance", "UNESCO Heritage"]
+      },
+      "music": {
+        "name": "Traditional Music",
+        "desc": "Folk songs, devotional music, and classical compositions that reflect Odisha's cultural richness.",
+        "tags": ["Folk Songs", "Devotional", "Classical"]
+      }
+    },
+    "art": {
+      "title": "Art & Crafts",
+      "pattachitra": {
+        "name": "Pattachitra",
+        "desc": "Traditional scroll painting depicting mythological stories and religious themes.",
+        "tags": ["Scroll Painting", "Mythology", "Natural Colors"]
+      },
+      "stoneCarving": {
+        "name": "Stone Carving",
+        "desc": "Intricate stone sculptures and carvings found in temples and monuments across Odisha.",
+        "tags": ["Temple Art", "Sculpture", "Heritage"]
+      }
+    },
+    "significance": {
+      "title": "Cultural Significance",
+      "heritage": {
+        "title": "Traditional Dress Heritage",
+        "desc": "Odisha's traditional dress reflects the state's rich textile heritage, with each piece telling a story of craftsmanship, cultural identity, and spiritual significance. From the sacred Khandua sarees offered to Lord Jagannath to the elegant Sambalpuri ikat weaves, these garments are living embodiments of Odia culture."
+      },
+      "modernity": {
+        "title": "Preservation & Modernity",
+        "desc": "Today, these traditional dresses are not just preserved but also adapted for contemporary fashion, ensuring that Odisha's cultural heritage continues to thrive while maintaining its authentic essence and spiritual connection."
+      }
+    }
+  },
+  "language": {
+    "title": "Language",
+    "subtitle": "Practice Odia greetings and phrases"
+  },
+  "games": {
+    "title": "Games",
+    "subtitle": "Pattachitra memory game (coming soon)"
+  },
+  "common": {
+    "features": "Features:",
+    "significance": "Significance:",
+    "comingSoon": "Coming soon.",
+    "backHome": "Back Home",
+    "share": "Share",
+    "image": "Image:"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "हिंदी",
+    "odia": "ଓଡ଼ିଆ"
+  }
+}
+

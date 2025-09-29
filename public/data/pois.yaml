@@ -1,0 +1,27 @@
+pois:
+  - id: poi-konark-sun-temple
+    name: Konark Sun Temple
+    lat: 19.8876
+    lng: 86.0945
+    category: temple
+    imageUrl: https://cdn.odiar.app/poi/konark.jpg
+    shortDesc: 13th-century Sun Temple and UNESCO World Heritage Site.
+    relatedLegendId: legend-surya-chariot
+    address: Konark, Odisha, India
+    openingHours: "6:00 AM - 8:00 PM"
+    tickets:
+      domestic: 40
+      foreign: 600
+    websiteUrl: https://asi.gov.in/konark
+  - id: poi-puri-beach
+    name: Puri Beach
+    lat: 19.7983
+    lng: 85.8250
+    category: beach
+    imageUrl: https://cdn.odiar.app/poi/puri_beach.jpg
+    shortDesc: Golden sands and Bay of Bengal shoreline.
+    relatedLegendId: legend-jagannath-sea
+    address: Puri, Odisha, India
+    openingHours: "Open 24 hours"
+
+
